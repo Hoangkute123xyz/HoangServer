@@ -3,7 +3,7 @@ let app = express();
 let bodyParser = require('body-parser');
 let urlencodedParser = bodyParser.urlencoded({ extended: false });
 let calculator = require('./Calculator');
-let server=require("http").createServer(app).listen(8080);
+let server=require("http").createServer(app).listen(process.env.PORT || 8080);
 let hbs = require('express-handlebars');
 let path = require('path');
 

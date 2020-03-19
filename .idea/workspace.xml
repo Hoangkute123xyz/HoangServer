@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2177dd14-7d86-4982-9652-ff964f6c0381" name="Default Changelist" comment="" />
+    <list default="true" id="2177dd14-7d86-4982-9652-ff964f6c0381" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="ProjectId" id="1ZCP7q6GgPdy13kbPBrwneQ4zSk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -84,6 +95,7 @@
       <workItem from="1584438704419" duration="10488000" />
       <workItem from="1584452751364" duration="872000" />
       <workItem from="1584498670552" duration="4817000" />
+      <workItem from="1584626398163" duration="196000" />
     </task>
     <servers />
   </component>
@@ -95,10 +107,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1584345040042" />
-    <state x="558" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584352398647">
+    <state x="558" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584626495734">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="558" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1584352398647" />
+    <state x="558" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1584626495734" />
     <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584344546030">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -123,6 +135,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1584343312132" />
+    <state x="392" y="159" key="Vcs.Push.Dialog.v2" timestamp="1584626664851">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="159" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1584626664851" />
+    <state x="607" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584626637573">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="607" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1584626637573" />
     <state x="456" y="195" key="run.anything.popup" timestamp="1584501713822">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
