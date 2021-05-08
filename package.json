@@ -12,7 +12,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "*",
-    "handlebars": "^4.7.3"
+    "handlebars": "^4.7.7"
   },
   "devDependencies": {
     "express-handlebars": "^3.1.0"
